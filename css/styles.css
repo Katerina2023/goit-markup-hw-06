@@ -799,7 +799,6 @@ img {
 }
 
 .close-btn {
-  fill: var(--color-navy-blue-modal);
   transition-property: fill;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -862,7 +861,6 @@ img {
 }
 .form-field {
   margin-top: 0;
-  margin-bottom: 8px;
   position: relative;
 }
 .checkbox {
