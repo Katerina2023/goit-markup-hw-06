@@ -878,7 +878,7 @@ img {
   background-color: var(--color-body);
   width: 16px;
   height: 16px;
-  border: 1px solid #2e2f42;
+  border: 1px solid rgba(46, 47, 66, 0.4);
   display: inline-flex;
   align-items: center;
   justify-content: center;
